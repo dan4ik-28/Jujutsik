@@ -1,0 +1,26 @@
+body>main{
+    background-image:url(images/image\ 1.png);}
+header>h1{width: 999%;}
+body{background-color: black;}
+article>a{
+    display: inline-block;
+    color : rgb(255, 0, 0);
+    background-image:url(images/The\ Games.jpg) ;
+    background-size: cover;
+    text-decoration: none;
+    padding: 50px 100px;
+    border-radius: 6px ;
+    margin-left: 350px;
+}
+header>h1{
+    color: rgb(219, 46, 2);
+    font-size: 50px;
+    display: inline;
+        
+}
+header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
